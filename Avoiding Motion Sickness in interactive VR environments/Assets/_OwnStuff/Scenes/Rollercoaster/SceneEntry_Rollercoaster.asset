@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 349e09143ca3f884a96dc1cc6fbaef3f, type: 3}
+  m_Name: SceneEntry_Rollercoaster
+  m_EditorClassIdentifier: 
+  m_LoadName: Rollercoaster
+  m_IsSelected: 1
+  m_DisplayName: Rollercoaster
+  m_Description: Contains a simple rollercoaster that can be used to test visual
+    effects and passive motion
+  m_SettingsPrefab: {fileID: 5400008146433693614, guid: c86eb69e6e0ec7f4fb112e3024be949e,
+    type: 3}
+  m_SceneSettings: {fileID: 11400000, guid: 37b49b652cc13214384fb036c1d19242, type: 2}

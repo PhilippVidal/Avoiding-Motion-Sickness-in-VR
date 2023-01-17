@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 349e09143ca3f884a96dc1cc6fbaef3f, type: 3}
+  m_Name: SceneEntry_SphereDodging
+  m_EditorClassIdentifier: 
+  m_LoadName: SphereDodging
+  m_IsSelected: 1
+  m_DisplayName: Sphere Dodging
+  m_Description: A scene for testing basic locomotion, in which the player has to
+    dodge a number of rolling spheres
+  m_SettingsPrefab: {fileID: 1223651112953052821, guid: 7608edbb2e55141469bc2ace6f50e036,
+    type: 3}
+  m_SceneSettings: {fileID: 11400000, guid: 65660631d0fce4a4b91828d9e4c8f611, type: 2}

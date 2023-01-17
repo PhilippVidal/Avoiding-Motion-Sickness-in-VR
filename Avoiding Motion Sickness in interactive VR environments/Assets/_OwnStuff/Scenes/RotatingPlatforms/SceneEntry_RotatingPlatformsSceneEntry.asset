@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 349e09143ca3f884a96dc1cc6fbaef3f, type: 3}
+  m_Name: SceneEntry_RotatingPlatformsSceneEntry
+  m_EditorClassIdentifier: 
+  m_LoadName: RotatingPlatforms
+  m_IsSelected: 1
+  m_DisplayName: Rotating Platforms
+  m_Description: Simulates passive angular motion through rotating platforms
+  m_SettingsPrefab: {fileID: 1223651112953052821, guid: e5bf285774f9f5143a7dee2e5739640a,
+    type: 3}
+  m_SceneSettings: {fileID: 11400000, guid: 0791cce4cf670ec41bc2dfb0c1795747, type: 2}

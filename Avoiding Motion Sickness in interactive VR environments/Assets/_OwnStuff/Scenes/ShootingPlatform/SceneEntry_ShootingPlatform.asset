@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 349e09143ca3f884a96dc1cc6fbaef3f, type: 3}
+  m_Name: SceneEntry_ShootingPlatform
+  m_EditorClassIdentifier: 
+  m_LoadName: ShootingPlatform
+  m_IsSelected: 1
+  m_DisplayName: Shooting Platforms
+  m_Description: Contains a moving platform that the user stands on while shooting
+    arrows at several targets
+  m_SettingsPrefab: {fileID: 5306054687765638731, guid: 065003595e2a0194aaf14b09d96b5646,
+    type: 3}
+  m_SceneSettings: {fileID: 11400000, guid: 19b26efa32f78dd4eb97d209914ce095, type: 2}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 349e09143ca3f884a96dc1cc6fbaef3f, type: 3}
+  m_Name: SceneEntry_Vehicle
+  m_EditorClassIdentifier: 
+  m_LoadName: Vehicle
+  m_IsSelected: 1
+  m_DisplayName: Racetrack
+  m_Description: A scene that lets the user drive a vehicle (both actively and passively)
+    on a racetrack
+  m_SettingsPrefab: {fileID: 4865322870248448329, guid: ce24d9559509d9d41b0f6603b0a09efd,
+    type: 3}
+  m_SceneSettings: {fileID: 11400000, guid: df3eff8ff9a6ee04e972a4d3d3907f7f, type: 2}

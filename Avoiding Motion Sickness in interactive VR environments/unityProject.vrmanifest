@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.masterarbeit_philippvidal_348515.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "R:\\University\\Masterarbeit\\Unity\\Masterarbeit_PhilippVidal_348515\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Masterarbeit_PhilippVidal_348515 [Testing]"
+        }
+      }
+    }
+  ]
+}

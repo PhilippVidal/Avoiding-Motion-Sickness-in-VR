@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 349e09143ca3f884a96dc1cc6fbaef3f, type: 3}
+  m_Name: SceneEntry_BaseLocomotion
+  m_EditorClassIdentifier: 
+  m_LoadName: BaseLocomotion
+  m_IsSelected: 1
+  m_DisplayName: Basic Locomotion
+  m_Description: A scene to test out basic locomotion
+  m_SettingsPrefab: {fileID: 2519917246513736304, guid: 2e3e7424e3540dc4f9e5d1557afde477,
+    type: 3}
+  m_SceneSettings: {fileID: 11400000, guid: 8797dba3165cd644887be72bee2c7b66, type: 2}

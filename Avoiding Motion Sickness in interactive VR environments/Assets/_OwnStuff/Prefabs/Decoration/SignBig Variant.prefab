@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &9210774617992975616
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3351848329638967901, guid: b9779c7f53e60ce4fbdf15a34964aca0,
+        type: 3}
+      propertyPath: m_text
+      value: Menu Room
+      objectReference: {fileID: 0}
+    - target: {fileID: 3351848329638967970, guid: b9779c7f53e60ce4fbdf15a34964aca0,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 3351848329638967971, guid: b9779c7f53e60ce4fbdf15a34964aca0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 3351848330464042054, guid: b9779c7f53e60ce4fbdf15a34964aca0,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3351848330464042055, guid: b9779c7f53e60ce4fbdf15a34964aca0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 3351848331236879053, guid: b9779c7f53e60ce4fbdf15a34964aca0,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3351848331236879053, guid: b9779c7f53e60ce4fbdf15a34964aca0,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3351848331236879053, guid: b9779c7f53e60ce4fbdf15a34964aca0,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3351848331236879053, guid: b9779c7f53e60ce4fbdf15a34964aca0,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -7.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3351848331236879053, guid: b9779c7f53e60ce4fbdf15a34964aca0,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 6.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 3351848331236879053, guid: b9779c7f53e60ce4fbdf15a34964aca0,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3351848331236879053, guid: b9779c7f53e60ce4fbdf15a34964aca0,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 3351848331236879053, guid: b9779c7f53e60ce4fbdf15a34964aca0,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3351848331236879053, guid: b9779c7f53e60ce4fbdf15a34964aca0,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.70710677
+      objectReference: {fileID: 0}
+    - target: {fileID: 3351848331236879053, guid: b9779c7f53e60ce4fbdf15a34964aca0,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3351848331236879053, guid: b9779c7f53e60ce4fbdf15a34964aca0,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3351848331236879053, guid: b9779c7f53e60ce4fbdf15a34964aca0,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 3351848331236879053, guid: b9779c7f53e60ce4fbdf15a34964aca0,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3351848331236879058, guid: b9779c7f53e60ce4fbdf15a34964aca0,
+        type: 3}
+      propertyPath: m_Name
+      value: SignBig Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 3351848331236879058, guid: b9779c7f53e60ce4fbdf15a34964aca0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 3351848331502160809, guid: b9779c7f53e60ce4fbdf15a34964aca0,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.45
+      objectReference: {fileID: 0}
+    - target: {fileID: 3351848331502160814, guid: b9779c7f53e60ce4fbdf15a34964aca0,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b9779c7f53e60ce4fbdf15a34964aca0, type: 3}
