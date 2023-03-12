@@ -1,4 +1,4 @@
-# Avoiding motion sickness in interactive VR environments:
+# Avoiding motion sickness in interactive VR environments
 This game was developed in conjunction with my master's thesis at the University of Applied Sciences in Kempten, Germany. 
 It's main focus is centered around the topic of Motion Sickness and the important question of how to avoid the occurence of this malady. 
 
