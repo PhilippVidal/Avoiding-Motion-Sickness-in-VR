@@ -33,3 +33,28 @@ While the rollercoaster completely removes the control of the user, the vehicle 
 - __Design choices and gameplay features:__
 Essentially a collection of smaller features and design elements that should be taken into account during development of a VR game. 
 A few examples of such features are alternative ways of traversing the game world (e.g., climbing and falling), the effect of certain visual patterns that can induce vection and the importance of high framerates & error-free tracking.
+
+<br />
+<br />
+
+![Tunneling](https://user-images.githubusercontent.com/56507722/224543769-3b35e843-169b-48ba-bdd5-d7ba4e07eb99.png)
+![Caging](https://user-images.githubusercontent.com/56507722/224543778-144b003e-6423-42ed-a2ac-249a48eefde7.png)
+![Schutzhelm1](https://user-images.githubusercontent.com/56507722/224543894-80725fe4-ad77-4fa6-9f07-26648690dd7d.png)
+![Schutzhelm2](https://user-images.githubusercontent.com/56507722/224543716-63dfde27-80ee-48f6-afc9-d89b6fda8762.png)
+![MenuRaum](https://user-images.githubusercontent.com/56507722/224543666-6b008f83-73f2-4275-a887-20a7c3048015.png)
+![Klettern1](https://user-images.githubusercontent.com/56507722/224543673-3671f494-af6e-462d-8894-46ad56522459.png)
+![Klettern2](https://user-images.githubusercontent.com/56507722/224543679-2f76a317-5362-4ad0-896c-b44d10b0887a.png)
+![RollercoasterRaum2](https://user-images.githubusercontent.com/56507722/224543695-400966b7-8e40-4ae2-bb1a-0646263d6e5b.png)
+![RotatingPlatformsRaum](https://user-images.githubusercontent.com/56507722/224543700-203ff285-499a-443e-beaf-8538cdaa3e3b.png)
+![ShootingPlatformRaum](https://user-images.githubusercontent.com/56507722/224543728-0c54a524-7a05-45c5-9075-e484b5e311af.png)
+![ShootingPlatformRaum2](https://user-images.githubusercontent.com/56507722/224543821-d0dea572-1a2c-4be5-b95f-a60834ed94d0.png)
+![SphereDodgingRaum1](https://user-images.githubusercontent.com/56507722/224543735-fc2bfa55-b500-4bb1-8feb-7f739fac62cd.png)
+![SphereDodgingRaum2](https://user-images.githubusercontent.com/56507722/224543737-121f40ec-8b0d-48f6-b624-7743dbfcfcec.png)
+![BasicLocomotionRaum](https://user-images.githubusercontent.com/56507722/224543927-037e788f-8e14-4972-a5de-2bf469f2b5e4.png)
+![BasicLocomotionRaum2](https://user-images.githubusercontent.com/56507722/224543930-035992c3-7d3f-4a66-bbb8-9ec4f0f0e2aa.png)
+![DesignEffectsRaum](https://user-images.githubusercontent.com/56507722/224543800-06bac054-43d0-4de3-9cbb-6c51a47decb7.png)
+![DesignEffectsTreppen](https://user-images.githubusercontent.com/56507722/224543809-b102e824-f517-4c21-b79c-bd21b7a174c8.png)
+![DesignEffectsVectionTunnel](https://user-images.githubusercontent.com/56507722/224543811-dd2392a4-a9c3-4a53-bbe6-d28afe33fe3f.png)
+![Virtualizer](https://user-images.githubusercontent.com/56507722/224543829-a8c39ece-5bf5-4886-93a3-d54286a1e63a.jpg)
+
+
