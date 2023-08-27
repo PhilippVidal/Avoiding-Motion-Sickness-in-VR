@@ -7,7 +7,7 @@ While there are well established gameplay features that are used in modern VR ga
 it is not uncommon to see gameplay elements copied from regular monitor-based games that (in VR) facilitate the development of motion sickness symptoms. 
 
 The game allows for meaningful comparisions between different methods and design choices that can be made to reduce or outright avoid motion sickness entirely during a single game session.
-To this extent, targeted provokation of motion sickness symptoms in specific situations is also a big part of the game. 
+To this extent, targeted provocation of motion sickness symptoms in specific situations is also a big part of the game. 
 
 In order to prevent motion sickness a number of generalized methods have been implemented into the game. Some examples for these methods are: 
 - __FOV reduction:__ 
